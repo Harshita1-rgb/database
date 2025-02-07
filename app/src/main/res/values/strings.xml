@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Task Manager</string> <!-- Set your app name here -->
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="priority_options">
+        <item>High</item>
+        <item>Medium</item>
+        <item>Low</item>
+    </string-array>
+</resources>
